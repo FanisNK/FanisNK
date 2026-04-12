@@ -21,6 +21,7 @@ Check out my repositories below 👇
 ## 📫 Contact
 
 * GitHub: https://github.com/FanisNK
+* Facebook: https://www.facebook.com/fanis.safiullin.2025
 
 Thanks for visiting my profile!
 
