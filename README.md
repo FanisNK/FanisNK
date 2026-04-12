@@ -10,8 +10,8 @@ I am currently learning programming and building small projects to improve my sk
 ## 🛠️ Technologies
 
 * HTML
-* CSS
-* JavaScript
+* Python
+* Django
 * Git & GitHub
 
 ## 📂 Projects
