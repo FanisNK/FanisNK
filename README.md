@@ -26,8 +26,8 @@ Check out my pinned repositories below to see examples of REST APIs, Docker conf
 ## 📫 Connect with Me
 
 - **GitHub:** [FanisNK](https://github.com/FanisNK)
-- **Telegram:** [@fanis777]
-- **Email:** [fanis.fanis777@yandex.ru]
+- **Telegram:** [fanis777](https://t.me/fanis777)
+- **Email:** [fanis.fanis777@yandex.ru](mailto:fanis.fanis777@yandex.ru)
 
 ---
 *Thanks for visiting my profile!*
