@@ -1,27 +1,34 @@
 # Hi, I'm Fanis 👋
 
-💻 Beginner Developer
+💻 **Python Backend Developer**
 🌍 Based in Russia
 
 ## 🚀 About Me
 
-I am currently learning programming and building small projects to improve my skills.
+I design and build reliable backend services and RESTful APIs. Currently focused on backend architecture, database optimization, and containerized deployments.
 
-## 🛠️ Technologies
+- 🎓 Completing an intensive Python Backend Development program at Yandex Practicum.
+- 🎯 Looking for Junior Backend / Python Developer opportunities and internships.
+- ♟️ In my free time, I play classical chess and practice English.
 
-* HTML
-* Python
-* Django
-* Git & GitHub
+## 🛠️ Tech Stack & Tools
 
-## 📂 Projects
+- **Languages:** Python, SQL
+- **Frameworks:** Django, Django REST Framework (DRF)
+- **Databases:** PostgreSQL, SQLite
+- **DevOps & Web Servers:** Docker, Docker Compose, Nginx
+- **Tools & OS:** Git, GitHub, Linux / Bash
 
-Check out my repositories below 👇
+## 📂 Featured Projects
 
-## 📫 Contact
+Check out my pinned repositories below to see examples of REST APIs, Docker configurations, and Nginx setups.
 
-* GitHub: https://github.com/FanisNK
-* Facebook: https://www.facebook.com/fanis.safiullin.2025
+## 📫 Connect with Me
 
-Thanks for visiting my profile!
+- **GitHub:** [FanisNK](https://github.com/FanisNK)
+- **Telegram:** [@fanis777]
+- **Email:** [fanis.fanis777@yandex.ru]
+
+---
+*Thanks for visiting my profile!*
 
